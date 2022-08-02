@@ -1,0 +1,5 @@
+2022-08-02 23:19:19.0206|DEBUG|NLogDemo.NLog|The Program executing
+2022-08-02 23:19:19.1946|INFO|NLogDemo.NLog|The Values Added
+2022-08-02 23:21:00.2645|ERROR|NLogDemo.NLog| A and B value Are 0
+2022-08-02 23:22:58.1240|DEBUG|NLogDemo.NLog|The Program executing
+2022-08-02 23:22:58.1513|INFO|NLogDemo.NLog|The Values Added
